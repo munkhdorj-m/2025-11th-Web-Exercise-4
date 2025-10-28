@@ -4,8 +4,9 @@ https://drive.google.com/file/d/1JVJt4Gf08HWGkGeYA5IladWNcd6_g8PG/view?usp=shari
 
 Desktop design: 
 
-![desktop-design](https://github.com/user-attachments/assets/a97166e4-1db8-4aee-a6c3-eeea71a127da)
+![desktop-design](https://github.com/user-attachments/assets/3c3854fe-7643-4bea-96a0-f1f85f0bb485)
+
 
 Mobile design:  
 
-![mobile-design](https://github.com/user-attachments/assets/4185daba-4680-49ec-a451-bd9331ab4801)
+![mobile-design](https://github.com/user-attachments/assets/2d981a1a-58a2-4656-8135-1309facc4046)
