@@ -1,4 +1,4 @@
-# Web Programming Exercise 5
+# Web Programming Exercise 6
 Responsive web design pdf: 
 https://drive.google.com/file/d/1JVJt4Gf08HWGkGeYA5IladWNcd6_g8PG/view?usp=sharing
 
